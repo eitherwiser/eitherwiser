@@ -1,9 +1,6 @@
 
 <!-- **eitherwiser/eitherwiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eitherwiser&show_icons=true&theme=github_dark&hide_border=true) <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <b>My stack and tools </b>:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
@@ -14,6 +11,11 @@
 <img align="left" alt="React" width="30px" src="https://reactjs.org/favicon.ico" />
 <!--<img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 <img align="left" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/favicon.ico" />
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?hide_title=true&username=eitherwiser&show_icons=true&theme=github_dark&hide_border=true) <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
