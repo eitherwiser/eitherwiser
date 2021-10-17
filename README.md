@@ -14,7 +14,7 @@
 <br><br>
 
 </a> 
-<a gref="https://github.com/DenverCoder1/github-readme-stats" aling="left"> <img height="100" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_title=true&layout=compact&theme=github_dark&hide_border=true" />
+<a gref="https://github.com/DenverCoder1/github-readme-stats" aling="left"> <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_title=true&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 
 
