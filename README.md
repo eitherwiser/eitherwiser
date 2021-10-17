@@ -25,8 +25,7 @@
 <span>&ensp;&ensp;&ensp;&ensp;</span> <a href="https://git.io/streak-stats">
  <img height="140"  align="leftr" width=360 src="http://github-readme-streak-stats.herokuapp.com?user=eitherwiser&background=0d1117&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=604040&dates=808080&stroke=131313&fire=E34C46" />
 </a> 
-<span>&ensp;&ensp;&ensp;</span> <a>
-<img height="100" width=360 align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide=stars&username=eitherwiser&show_icons=true&bg_color=0d1117&theme=github_dark&icon_color=366399&hide_border=true" />
+<span>&ensp;&ensp;&ensp;</span> <a> <img height="100" width=360 align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide=stars&username=eitherwiser&show_icons=true&bg_color=0d1117&theme=github_dark&icon_color=366399&hide_border=true" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" >    
  <img height="290" align="center" src="https://activity-graph.herokuapp.com/graph?username=eitherwiser&hide_border=true&color=808080&bg_color=0D1117&line=403040&hide_title=true&bg_color=0d1117&theme=react-dark" />
