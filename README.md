@@ -22,33 +22,27 @@
 <br><br>
 
 
-<details> <summary><b> &nbsp;Statistics</b></summary>
-
-<a>
-<img height="100" align="left" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide=stars&username=eitherwiser&show_icons=true&theme=github_dark&hide_border=true" />
+<span>&ensp;</span> <details> <summary><b> &nbsp;GitHub statistics</b></summary>
+<span>&ensp;&ensp;&ensp;</span> <a>
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide=stars&username=eitherwiser&show_icons=true&bg_color=0d1117&theme=github_dark&icon_color=366399&hide_border=true" />
 </a>
-<a href="https://git.io/streak-stats">
-<img height="140"  align="right" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=eitherwiser&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=4C8EDA&dates=4099DD&stroke=143466" />
- </a>         
-
-
-
-<img height="280" width="800" src="https://activity-graph.herokuapp.com/graph?username=eitherwiser&hide_border=true&color=4099DD&bg_color=0D1117&line=4C8EDA&theme=react-dark" />
-          (https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<span>&ensp;&ensp;&ensp;&ensp;</span> <a href="https://git.io/streak-stats">
+ <img height="140"  align="center" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=eitherwiser&background=0d1117&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=604040&dates=808080&stroke=131313&fire=E34C46" />
+</a> 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" >    
+ <img height="290" align="center" src="https://activity-graph.herokuapp.com/graph?username=eitherwiser&hide_border=true&color=808080&bg_color=0D1117&line=403040&hide_title=true&bg_color=0d1117&theme=react-dark" />
+</a>
+<br>
+</details>
  
- </details>
- 
+<br>
+<hr color="red">
+<p aling="right">
+<img src="https://komarev.com/ghpvc/?username=eitherwiser&style=flat&label=Profile%20views&color=gray"><img>
 <span>&ensp;</span> 
-<br><br>
-
-![Profile views](https://gpvc.arturio.dev/eitherwiser)
-
-<p align="right">
- 
-<img src="https://komarev.com/ghpvc/?username=eitherwiser&style=plastic&label=Views&color=orange"><img>
-<img src="https://visitor-badge.glitch.me/badge?page_id=eitherwiser.eitherwiser&right_color=teal&label=Views" alt="visitor badge"/>
-<img src="https://badges.pufler.dev/visits/eitherwiser/eitherwiser?color=teal&logo=github" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=eitherwiser.eitherwiser&right_color=gray&label=Views" alt="visitor badge"/>
+<span>&ensp;</span> 
+<img src="https://badges.pufler.dev/visits/eitherwiser/eitherwiser?color=gray&logo=github" />
 </p>
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
