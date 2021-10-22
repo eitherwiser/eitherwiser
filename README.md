@@ -39,7 +39,7 @@
 <a href="https://git.io/streak-stats"  aling="right">
  <img height="220" width=300 src="http://github-readme-streak-stats.herokuapp.com?user=eitherwiser&background=0d1117&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j&ring=604040&dates=808080&stroke=131313&fire=E34C46" />
 </a> 
-<span>&ensp;&ensp;&ensp;&ensp;&ensp;</span> <a gref="https://github.com/DenverCoder1/github-readme-stats" aling="left"> <img height="100" width=300 src="https://github-readme-stats.vercel.app/api?hide_title=true&hide=stars&username=eitherwiser&show_icons=true&bg_color=0d1117&theme=github_dark&icon_color=366399&hide_border=true" />
+<span>&ensp;&ensp;&ensp;</span> <a gref="https://github.com/DenverCoder1/github-readme-stats" aling="left"> <img height="100" width=300 src="https://github-readme-stats.vercel.app/api?hide_title=true&hide=stars&username=eitherwiser&show_icons=true&bg_color=0d1117&theme=github_dark&icon_color=366399&hide_border=true" />
 </a>
 </details>
  
