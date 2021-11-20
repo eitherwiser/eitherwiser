@@ -22,11 +22,11 @@
 <span>&ensp;&ensp;</span>
 <a href="https://code.visualstudio.com"> <img alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/favicon.ico" /> </a>
 <span>&ensp;&ensp;</span>
-<a href="https://www.npmjs.com"> <img aling="left" alt="npm" width="30" src="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png" /> </a>
-<span>&ensp;&ensp;</span>
 <a href="https://nodejs.org"> <img aling="left" alt="Node.JS" width="30" src="https://nodejs.org/static/images/favicons/apple-touch-icon.png" /> </a>
 <span>&ensp;&ensp;</span>
 <a href="https://ubuntu.com"> <img aling="left" alt="UBUNTU" width="30" src="https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png" /> </a>
+<span>&ensp;&ensp;</span>
+<a href="https://www.npmjs.com"> <img aling="left" alt="npm" width="30" src="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png" /> </a>
 <span>&ensp;&ensp;</span>
 <a href="https://figma.com"> <img aling="left" alt="Figma" width="30" src="https://static.figma.com/app/icon/1/favicon.png" /> </a>
 <span>&ensp;&ensp;</span>
