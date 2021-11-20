@@ -27,6 +27,7 @@
 <a href="https://nodejs.org"> <img aling="left" alt="Node.JS" width="30" src="https://nodejs.org/static/images/favicons/apple-touch-icon.png" /> </a>
 <span>&ensp;&ensp;</span>
 <a href="https://ubuntu.com"> <img aling="left" alt="UBUNTU" width="30" src="https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png" /> </a>
+<span>&ensp;&ensp;</span>
 <a href="https://figma.com"> <img aling="left" alt="Figma" width="30" src="https://static.figma.com/app/icon/1/favicon.png" /> </a>
 <span>&ensp;&ensp;</span>
 <a href="https://netlify.com"> <img aling="left" alt="Netlify" width="30" src="https://www.netlify.com/v3/static/favicon/apple-touch-icon.png" /> </a>
